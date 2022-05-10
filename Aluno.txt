@@ -1,1 +1,2 @@
 Aluno1:Lucas Nota:10
+Aluno2:Luan Nota:7
